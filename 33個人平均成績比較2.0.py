@@ -18,5 +18,6 @@ if grade < 70:
     print("小於全班平均")
 elif grade == 70:
     print("等於全班平均")
+
 else:
     print("高於全班平均")
